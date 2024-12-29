@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-section-website-logo {
+    width: 130px;
+    height: 50px;
+}
+
+.navbar-bg {
+    background-color: #DAE0E0;
+}
+
+
+.services-section-bg-container {
+    width: 100%;
+    height: 100%;
+}
+
+.services-section-head {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.services-section-description {
+    color: #616c7c;
+    font-family: Roboto;
+}
+
+.services-section-images {
+    width: 80px;
+}
+
+.services-section-service-name {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #1f2933;
+}
+
+.products-section-card-container-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    color: white;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+
+.products-section-card-container-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    color: white;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+
+.products-section-card-button {
+    color: #ff9f00;
+    border-width: 0;
+    height: 39px;
+    width: 120px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.products-section-modal-head {
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.products-section-modal-para {
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.products-section-modal-span-element {
+    font-weight: bold;
+}
+
+.products-section-modal-button {
+    border-width: 2px;
+    border-color: black;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.offers-section-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.offers-section-head {
+    color: #ad2167;
+    font-size: 20px;
+    font-family: Bree-serif;
+    font-weight: bold;
+}
+
+.offers-section-para {
+    color: white;
+    font-size: 17px;
+}
+
+
+
+.blogs-section-card {
+    background-color: white;
+    border-radius: 6px;
+}
+
+.blogs-section-card-name {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.blogs-section-card-head {
+    color: #183b56;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+
+.blogs-section-card-read-more {
+    font-size: 13px;
+    color: #ff9f00;
+}
+
+.blogs-section-card-read-more-arrow {
+    color: #ff9f00;
+}
+
+
+
+.explore-section-bg-container {
+    font-family: "Roboto";
+    background-color: #f5f7fa;
+}
+
+.explore-section-card-heading {
+    color: #1f2933;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.explore-section-see-buton {
+    color: #ff9f00;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+.contact-us-bg-container {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.contact-us-button {
+    color: #ff9f00;
+    border-width: 3px;
+    border-color: orange;
+    height: 40px;
+    border-style: solid;
+    width: 130px;
+}
+
+
+.footer-section-bg-container {
+    background-color: #0d2436;
+    width: 100%;
+    font-family: "Roboto";
+}
+
+.footer-section-website-logo {
+    width: 130px;
+    padding: 10px;
+}
+
+.footer-section-social-media {
+    color: #5a7184;
+    background-color: #152c3e;
+}
+
+.footer-section-bg-social-media {
+    background-color: #152c3e;
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.footer-section-address {
+    font-size: 13px;
+    color: #5a7184;
+    padding: 10px;
+}
+
+.footer-section-sub-section {
+    color: #5a7184;
+}
+
+.footer-section-list-items {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-section-head {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-setion-para {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.footer-section-line {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+.footer-section-copyright-para {
+    color: #5a7184;
+    font-size: 14px;
+}
