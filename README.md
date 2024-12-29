@@ -1,6 +1,3 @@
-Here's the README file for your GitHub repository:
-
----
 
 # Responsive E-Commerce Website
 
