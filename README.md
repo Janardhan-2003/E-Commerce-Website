@@ -33,7 +33,7 @@ This is a fully responsive e-commerce website designed with HTML, CSS, and Boots
 3. Open the `E-Commerce Website.html` file in your browser.
 
 ## Author
-This project was created by **[Your Name]**.
+This project was created by **Kokatam Janardhan Reddy**.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
